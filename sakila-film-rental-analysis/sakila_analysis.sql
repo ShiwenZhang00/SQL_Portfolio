@@ -1,6 +1,6 @@
 -- ============================================================
 -- Sakila DVD Rental Database - Business Analysis
--- Author: [Your Name]
+-- Author: SHIWEN ZHANG
 -- Date:   2026-04-07
 -- Tool:   MySQL Workbench 8.0
 -- Data:   MySQL Official Sakila Sample Database
