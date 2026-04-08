@@ -1,7 +1,5 @@
 # Sakila DVD Rental Database — SQL Data Exploration Report
 
-**Author:** Shiwen Zhang  
-**Date:** April 2026  
 **Tool:** MySQL Workbench 8.0  
 **Dataset:** MySQL Official Sakila Sample Database  
 
